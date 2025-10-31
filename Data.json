@@ -1,4 +1,4 @@
-[
+"user":[
   { "id": 1,  "name": "Alice",   "age": 25, "email": "alice@example.com" },
   { "id": 2,  "name": "Bob",     "age": 30, "email": "bob@example.com" },
   { "id": 3,  "name": "Charlie", "age": 28, "email": "charlie@example.com" },
@@ -19,4 +19,5 @@
   { "id": 18, "name": "Ryan",    "age": 34, "email": "ryan@example.com" },
   { "id": 19, "name": "Sophia",  "age": 28, "email": "sophia@example.com" },
   { "id": 20, "name": "Tom",     "age": 37, "email": "tom@example.com" }
+
 ]
